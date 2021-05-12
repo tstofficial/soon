@@ -2,4 +2,4 @@
 
 Stay Tuned...
 
-contact **[mailto:mail@thesingaporetoday.com](mail@thesingaporetoday.com)**
+contact **[mail@thesingaporetoday.com](mailto:mail@thesingaporetoday.com)**
