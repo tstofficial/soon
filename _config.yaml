@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Soon
-email: youremailaddress
-phone: 0123456789
-description: A coming soon page for Jekyll
+title: The Singapore Today
+email: mail@thesingaporetoday.com
+#phone: 0123456789
+description: All Good Stores
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yjpl.github.io/soon/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: alternatyves
-github_username: YJPL
+url: "https://www.thesingaporetoday.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: thesgtoday
+#github_username: YJPL
 
 # Build settings
 markdown: kramdown
